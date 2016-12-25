@@ -15346,8 +15346,8 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="C4" library="rcl" deviceset="C-EU" device="050-024X044" value="470pF"/>
 <part name="C9" library="rcl" deviceset="C-EU" device="050-024X044" value="470pF"/>
 <part name="C10" library="rcl" deviceset="C-EU" device="050-024X044" value="470pF"/>
-<part name="C5" library="rcl" deviceset="CPOL-US" device="E2-5" value="10uF"/>
-<part name="C6" library="rcl" deviceset="CPOL-US" device="E2-5" value="10uF"/>
+<part name="C5" library="rcl" deviceset="CPOL-US" device="E2-5"/>
+<part name="C6" library="rcl" deviceset="CPOL-US" device="E2-5"/>
 <part name="C7" library="rcl" deviceset="CPOL-US" device="E5-10.5" value="470uF"/>
 <part name="C8" library="rcl" deviceset="CPOL-US" device="E5-10.5" value="470uF"/>
 <part name="F1" library="fuse" deviceset="FUSE" device="LITTLEFUSE"/>
