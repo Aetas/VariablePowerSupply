@@ -1,0 +1,80 @@
+Circuit: * C:\Users\Aetas\Documents\GitProjects\VariablePowerSupply\LTSpice\VariablePowerSupply.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Heightened Def Con from 4.11714e-009 to 6.11717e-009
+Heightened Def Con from 6.118e-009 to 6.11995e-009
+Heightened Def Con from 6.11999e-009 to 7.12023e-009
+Heightened Def Con from 7.12341e-009 to 9.12536e-009
+Heightened Def Con from 9.12609e-009 to 1.21261e-008
+Heightened Def Con from 1.21276e-008 to 1.51276e-008
+Heightened Def Con from 1.51285e-008 to 1.81285e-008
+Heightened Def Con from 1.81292e-008 to 2.11292e-008
+Heightened Def Con from 2.13802e-008 to 2.33822e-008
+Heightened Def Con from 2.33833e-008 to 2.33833e-008
+Heightened Def Con from 2.33833e-008 to 2.36333e-008
+Heightened Def Con from 2.36337e-008 to 2.66337e-008
+Heightened Def Con from 2.92633e-008 to 2.92633e-008
+Heightened Def Con from 2.92633e-008 to 3.12633e-008
+Heightened Def Con from 3.12641e-008 to 3.12641e-008
+Heightened Def Con from 3.12641e-008 to 3.12641e-008
+Heightened Def Con from 3.12642e-008 to 3.12642e-008
+Heightened Def Con from 3.12642e-008 to 3.32662e-008
+Heightened Def Con from 3.32665e-008 to 3.52821e-008
+Heightened Def Con from 3.52826e-008 to 3.52826e-008
+Heightened Def Con from 3.52826e-008 +to 3.62826e-008
+Heightened Def Con from 3.62835e-008 to 3.74085e-008
+Heightened Def Con from 3.74093e-008 to 3.74093e-008
+Heightened Def Con from 3.74093e-008 to 3.74113e-008
+Heightened Def Con from 3.74113e-008 to 4.04113e-008
+Heightened Def Con from 4.04117e-008 to 4.34117e-008
+Heightened Def Con from 4.36641e-008 to 4.39141e-008
+Heightened Def Con from 4.39153e-008 to 4.41653e-008
+Heightened Def Con from 4.44161e-008 to 4.46661e-008
+Heightened Def Con from 4.46708e-008 to 4.49208e-008
+Heightened Def Con from 4.49212e-008 to 4.51712e-008
+Heightened Def Con from 4.51753e-008 to 4.51792e-008
+Heightened Def Con from 4.51815e-008 to 4.54315e-008
+Heightened Def Con from 4.57453e-008 to 4.58859e-008
+Heightened Def Con from 4.58874e-008 to 4.58874e-008
+Heightened Def Con from 4.58875e-008 +to 4.58875e-008
+Heightened Def Con from 4.58875e-008 +to 4.60125e-008
+Heightened Def Con from 4.6504e-008 to 4.9504e-008
+
+Date: Mon Jan 16 14:31:57 2017
+Total elapsed time: 0.751 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 37948
+traniter = 37576
+tranpoints = 7587
+accept = 5551
+rejected = 2077
+matrix size = 57
+fillins = 57
+solver = Normal
+Thread vector: 14.1/10.1[3] 8.5/4.2[3] 3.8/3.3[3] 0.3/0.7[1]  2592/500
+Matrix Compiler1: 9.75 KB object code size  1.8/1.1/[0.7]
+Matrix Compiler2: 6.62 KB object code size  0.9/1.2/[0.4]
+
+
