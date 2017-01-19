@@ -15,3 +15,5 @@ Triple check trace width. They're over sized right now but I assumed the density
 
 Scrap the whole project for the most beautiful programmable switching flyback power supply the world has ever seen. (Good joke, right?)  
 I might actually want to do this in the future when I want a less noisy fixed 5V supply. Really I should just revisit my old supply and measure the noise.
+
+sepp. wall ground and board ground. Probs a good idea to do the air gap thing.
